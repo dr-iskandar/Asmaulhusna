@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="capt" size="1.000000 1.428571" />
-    <ImageTarget name="Arrahman" size="1.000000 1.638667" />
-    <ImageTarget name="MarkerAllah" size="1.000000 1.638667" />
+    <ImageTarget name="2ArRahman" size="1.000000 1.000000" />
+    <ImageTarget name="Allah" size="1.000000 1.000000" />
+    <ImageTarget name="5Assalam" size="1.000000 1.000000" />
+    <ImageTarget name="23ArRoofii" size="1.000000 1.000000" />
+    <ImageTarget name="17ArRazaq" size="1.000000 1.000000" />
+    <ImageTarget name="2ArRahim" size="1.000000 1.000000" />
+    <ImageTarget name="16AlWahab" size="1.000000 1.000000" />
+    <ImageTarget name="26AlSamii" size="1.000000 1.000000" />
+    <ImageTarget name="4AlQudus" size="1.000000 1.000000" />
+    <ImageTarget name="15AlQohar" size="1.000000 1.000000" />
+    <ImageTarget name="20AlQobid" size="1.000000 1.000000" />
+    <ImageTarget name="10AlMutakabir" size="1.000000 1.000000" />
+    <ImageTarget name="13AlMusowwir" size="1.000000 1.000000" />
+    <ImageTarget name="6AlMumin" size="1.000000 1.000000" />
+    <ImageTarget name="24AlMuiz" size="1.000000 1.000000" />
+    <ImageTarget name="7AlMuhaimin" size="1.000000 1.000000" />
+    <ImageTarget name="25AlMudzil" size="1.000000 1.000000" />
+    <ImageTarget name="3AlMalik" size="1.000000 1.000000" />
+    <ImageTarget name="30AlLatif" size="1.000000 1.000000" />
+    <ImageTarget name="11AlKholiq" size="1.000000 1.000000" />
+    <ImageTarget name="22AlKhofid" size="1.000000 1.000000" />
+    <ImageTarget name="9AlJabar" size="1.000000 1.000000" />
+    <ImageTarget name="28AlHakam" size="1.000000 1.000000" />
+    <ImageTarget name="14AlGofur" size="1.000000 1.000000" />
+    <ImageTarget name="18AlFattah" size="1.000000 1.000000" />
+    <ImageTarget name="21AlBasit" size="1.000000 1.000000" />
+    <ImageTarget name="27AlBasiir" size="1.000000 1.000000" />
+    <ImageTarget name="12AlBarii" size="1.000000 1.000000" />
+    <ImageTarget name="8AlAziz" size="1.000000 1.000000" />
+    <ImageTarget name="19AlAlim" size="1.000000 1.000000" />
+    <ImageTarget name="29-AlAdl" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
